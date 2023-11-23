@@ -5,3 +5,5 @@ console.log(a)
 
 var harivansh;
 console.log(a);
+
+a=a+1;
